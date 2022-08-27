@@ -11,7 +11,7 @@ Skills: JavaScript / PHP / WordPress
 - 📫 How to reach me: mdmoinulhossain100@gmail.com 
 
 
-[<img src='https://github.com/mdmoinulhossain/mdmoinulhossain/blob/main/icon/github.png?raw=true' alt='github' height='40'>](https://github.com/mdmoinulhossain) [<img src='https://github.com/mdmoinulhossain/mdmoinulhossain/blob/main/icon/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/mmoinulh/)  [<img src='https://github.com/mdmoinulhossain/mdmoinulhossain/blob/main/icon/instagram.png?raw=true' alt='inatagram' height='40'>](https://www.instagram.com/moinul100/) [<img src='https://github.com/mdmoinulhossain/mdmoinulhossain/blob/main/icon/twitter.png?raw=true' alt='twitter' height='40'>](https://twitter.com/Moinul_100) [<img src='https://github.com/mdmoinulhossain/mdmoinulhossain/blob/main/icon/gitlab.png?raw=true' alt='gitlab' height='40'>](https://gitlab.com/moinul100)
+[<img src='https://github.com/mdmoinulhossain/mdmoinulhossain/blob/main/icon/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/mmoinulh/)  [<img src='https://github.com/mdmoinulhossain/mdmoinulhossain/blob/main/icon/instagram.png?raw=true' alt='inatagram' height='40'>](https://www.instagram.com/moinul100/) [<img src='https://github.com/mdmoinulhossain/mdmoinulhossain/blob/main/icon/twitter.png?raw=true' alt='twitter' height='40'>](https://twitter.com/Moinul_100) [<img src='https://github.com/mdmoinulhossain/mdmoinulhossain/blob/main/icon/gitlab.png?raw=true' alt='gitlab' height='40'>](https://gitlab.com/moinul100)
 
 <h3 align="center">A passionate FullStack Developer from Bangladesh</h3>
 
