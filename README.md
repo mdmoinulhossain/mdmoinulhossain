@@ -1,18 +1,12 @@
-### <span> Hi!, This is <h1 align="center"> MD. MOINUL HOSSAIN</h1></span>
-#### Web Developer
-Assalamu alaykum. 
-My self Md. Moinul Hossain.
-
-I am passionate with Full Stack Software Development and DevOps.
-
-Currently, I am flexible in Frontend technologies(HTML, CSS, Bootstrap, SASS), php with mysql, codeIgniter, wordpress. Limited work proficiency in React js, angular, laravel, Magento.
-I love to work in digital marketing and search engine optimization fields. 
-
+### <span> Assalamu alaikum, This is <h1 align="center"> MD. MOINUL HOSSAIN</h1></span>
+<h5 align="center">Full Stack Web Developer</h2>
+I am passionate with DevOps and artificial intelligence.
+Currently, I am flexible in Frontend technologies(HTML, CSS, Bootstrap, SASS), php with mysql, codeIgniter, wordpress. Limited work proficiency in React js, angular, laravel, Magento. I love to work in digital marketing and search engine optimization fields. 
 I Love and want to learn continuously.
-
+<br/><br/>
 Skills: JavaScript / PHP / WordPress
 
-- 👩‍💻 I’m currently learning Programming.
+-  👨‍💻 Currently I’m learning Programming.
 - 🌐 Find Me: https://mdmoinulhossain.github.io/
 - 📫 How to reach me: mdmoinulhossain100@gmail.com 
 
@@ -26,4 +20,4 @@ Skills: JavaScript / PHP / WordPress
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdmoinulhossain)  
 
-![Profile views](https://gpvc.arturio.dev/mdmoinulhossain)  
+![Profile views](https://gpvc.arturio.dev/mdmoinulhossain)
