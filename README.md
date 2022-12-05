@@ -20,6 +20,6 @@ Skills: JavaScript / PHP / WordPress
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdmoinulhossain&theme=dark&border_radius=10)](https://git.io/streak-stats)
 
-<p class="has-line-data" data-line-start="0" data-line-end="1" background-color="#00FFFF"><a href="https://gist.github.com/mdmoinulhossain" title="*GITHUB GITS*"><em>GITHUB GITS</em></a></p>
+<p class="has-line-data" data-line-start="0" data-line-end="1"><a href="https://gist.github.com/mdmoinulhossain" title="*GITHUB GITS*"><em style="color: #00ffff">GITHUB GITS</em></a></p> `#00FFFF`
 
 ![Profile views](https://gpvc.arturio.dev/mdmoinulhossain)
