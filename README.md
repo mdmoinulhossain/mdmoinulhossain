@@ -1,11 +1,11 @@
 ### <span> Assalamu alaikum, This is <h1 align="center"> MD. MOINUL HOSSAIN</h1></span>
 <h5 align="center">Full Stack Web Developer</h2>
-Currently, I am flexible in Frontend technologies(HTML, CSS, Bootstrap, SASS, Tailwindcss, Material UI), React JS, PHP with MySQL, JavaScript, WordPress. 
+Currently, I am flexible in Frontend technologies (HTML, CSS, Bootstrap, SASS, Tailwindcss, Material UI), React JS, PHP with MySQL, JavaScript, WordPress. 
 Entry Level work proficiency in CodeIgniter, laravel.
 
 I am passionate about DevOps and Artificial intelligence.
 
-I love to work in digital marketing (like facebook marketing, Instagram marketing, linkedin marketing, email marketing)and search engine optimization fields.
+I love to work in digital marketing (like facebook marketing, Instagram marketing, linkedin marketing, email marketing), and search engine optimization fields.
 <br/><br/>
 Skills: JavaScript / PHP / WordPress
 
