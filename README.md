@@ -9,7 +9,7 @@ I love to work in digital marketing (like facebook marketing, Instagram marketin
 <br/><br/>
 Skills: JavaScript / PHP / WordPress
 
--  👨‍💻 Currently I’m learning Programming.
+-  👨‍💻 Currently I’m learning How to Code.
 - 🌐 Portfolio: https://mdmoinulhossain.github.io/
 - 📫 How to reach me: mdmoinulhossain100@gmail.com 
 
