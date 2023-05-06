@@ -1,8 +1,16 @@
 ### <span>Welcome to the World, This is ☞ <h1 align="center"> MD. MOINUL HOSSAIN</h1></span>
 <h5 align="center">Full-Stack Web Developer</h2>
-Currently, I am flexible in Frontend technologies (HTML, CSS, Bootstrap, SASS, Tailwindcss, Material UI), React JS, PHP with MySQL, JavaScript, WordPress. 
-Entry Level work proficiency in CodeIgniter, laravel, Next.js.
 
+<p>Currently, I'm Learning Computer Science Fundamentals and Programming.</p>
+<p>I am flexible in:</p>
+👉 Frontend technologies (Bootstrap, SASS, Tailwindcss, Material UI), JavaScript, React JS. 
+👉 Backend: PHP with MySQL
+👉 CMS: WordPress
+<br/>
+<p>Entry Level work proficiency in:</p> 
+👉 laravel 
+👉 Next.js
+<br/>
 I am passionate about DevOps and Artificial intelligence.
 <br/><br/>
 Technology: JavaScript || PHP
