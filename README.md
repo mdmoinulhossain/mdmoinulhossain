@@ -1,12 +1,12 @@
 ### <span>Welcome to the World, This is ☞ <h1 align="center"> MD. MOINUL HOSSAIN</h1></span>
 <h5 align="center">Full-Stack Web Developer || DevOps Enthusiastic</h2>
 
-<p>Currently, I'm Learning Computer Science Fundamentals and Programming.</p>
+<p>Currently, I'm Learning Computer Science Fundamentals and Programming. 👨‍💻</p>
 I am flexible in: <br/>
 👉 Frontend technologies (Bootstrap, SASS, Tailwindcss, Material UI), JavaScript, React JS. <br/>
 👉 Backend: PHP with MySQL <br/>
 👉 CMS: WordPress
-<br/><br/><br/>
+<br/><br/>
 Entry Level work proficiency in:<br/>
 👉 laravel <br/>
 👉 Next.js
@@ -16,7 +16,6 @@ I am passionate about DevOps and Artificial intelligence.
 
 Skills: Develop Responsive Website || Bug Fixing || Problem Solving
 
--  👨‍💻 Currently I’m learning How to Code.
 - 🌐 Portfolio: https://mdmoinulhossain.github.io/
 - 📫 How to reach me: mdmoinulhossain100@gmail.com 
 
