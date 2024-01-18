@@ -1,15 +1,14 @@
 ### <span>Welcome to the World, This is ☞ <h1 align="center"> MOHAMMAD MOINUL HOSSAIN</h1></span>
-<h5 align="center">Web Application Developer || DevOps Enthusiastic</h2>
+<h5 align="center">Web Application Developer || PHP Ecosystem Enthusiastic</h2>
 
 <p>Currently, I'm Learning Computer Science Fundamentals and Programming. 👨‍💻</p>
 I am flexible in: <br/>
-👉 Frontend technologies (Bootstrap, SASS, Tailwindcss, Material UI), JavaScript, React JS. <br/>
+👉 Frontend technologies (Bootstrap, SASS, Tailwindcss, Material UI), JavaScript, JQuery, React JS. <br/>
 👉 Backend: PHP with MySQL <br/>
 👉 CMS: WordPress
+👉 Framework: laravel
 <br/><br/>
-Entry Level work proficiency in:<br/>
-👉 laravel <br/>
-👉 Next.js
+
 <br/>
 I am passionate about DevOps and Artificial intelligence.
 <br/><br/>
