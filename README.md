@@ -5,7 +5,7 @@
 I am flexible in: <br/>
 👉 Frontend technologies (Bootstrap, SASS, Tailwindcss, Material UI), JavaScript, JQuery, React JS. <br/>
 👉 Backend: PHP with MySQL <br/>
-👉 CMS: WordPress
+👉 CMS: WordPress <br/>
 👉 Framework: laravel
 <br/><br/>
 
