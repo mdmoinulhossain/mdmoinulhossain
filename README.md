@@ -2,13 +2,14 @@
 <h5 align="center">Web Application Developer || PHP Ecosystem Enthusiastic</h2>
 
 I am flexible in: <br/>
-👉 Frontend technologies (Bootstrap, SASS, Tailwindcss, Material UI), JavaScript, JQuery, React JS. <br/>
-👉 Backend: PHP with MySQL <br/>
-👉 CMS: WordPress <br/>
-👉 Framework: laravel
+👉🏻 Design Tools: Photoshop, Illustrator, Figma. <br/>
+👉🏻 Frontend: JavaScript, React JS, Bootstrap, SASS, Tailwindcss, Material UI, jQuery. <br/>
+👉🏻 Backend: PHP <br/>
+👉🏻 Database: SQL, MySql, MongoDB, firebase <br/>
+👉🏻 Framework: Laravel <br/>
+👉🏻 CMS: WordPress <br/>
+👉🏻 Tools and Technology: Linux, DigitalOcean, GIT, WHM
 <br/><br/>
-
-<br/>
 I am passionate about DevOps and Artificial intelligence.
 <br/><br/>
 
