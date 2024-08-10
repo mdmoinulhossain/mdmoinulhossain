@@ -25,10 +25,7 @@ Skills: Develop Responsive Website || Bug Fixing || Problem Solving
 
 <h3 align="left">Languages and Tools:</h3>
 
-# PHP
-## MySQL
-## Laravel
-### JavaScript
+# PHP ## MySQL ## Laravel ### JavaScript
 ### Tailwind CSS
 ### WordPress
 ### GIT
