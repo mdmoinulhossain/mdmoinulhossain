@@ -10,7 +10,7 @@ I am flexible in: <br/>
 👉🏻 CMS: WordPress <br/>
 👉🏻 Tools and Technology: Linux, DigitalOcean, GIT, WHM
 <br/><br/>
-I am passionate about DevOps and Artificial intelligence.
+I am passionate about DevOps.
 <br/><br/>
 
 Skills: Develop Responsive Website || Bug Fixing || Problem Solving
