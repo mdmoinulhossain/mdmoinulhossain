@@ -23,9 +23,7 @@ Skills: Develop Responsive Website || Bug Fixing || Problem Solving
 
 <br/>
 
-<h3 align="left">Languages and Tools:</h3>
-
-[<img src='https://raw.githubusercontent.com/mdmoinulhossain/mdmoinulhossain/main/icon/tech.webp' alt='linkedin' height='auto' width='auto'>]
+<img src='https://raw.githubusercontent.com/mdmoinulhossain/mdmoinulhossain/main/icon/tech.webp' alt='linkedin' height='auto' width='auto'>
 
 <a href="https://app.daily.dev/mdmoinulhossain"><img src="https://api.daily.dev/devcards/6c3a3fa5fabf4c518709914d5c8f3f5d.png?r=ge6" width="400" alt="MD. MOINUL HOSSAIN's Dev Card"/></a>
 
