@@ -25,24 +25,28 @@ Skills: Develop Responsive Website || Bug Fixing || Problem Solving
 
 <h3 align="left">Languages and Tools:</h3>
 
-# PHP ## MySQL ## Laravel ### JavaScript
-### Tailwind CSS
-### WordPress
-### GIT
-### JQuery
-#### React JS
-#### GITHUB
-#### Photoshop
-##### BOOTSTRAP
-##### Postman
-##### BITBUCKET
-###### CSS
-###### HTML
-###### SASS
-###### Figma
-###### Illustrator
-###### GITLAB
-###### Linux
+```
+PHP 
+MySQL 
+Laravel JavaScript
+Tailwind CSS
+WordPress
+GIT
+JQuery
+React JS
+GITHUB
+Photoshop
+BOOTSTRAP
+Postman
+BITBUCKET
+CSS
+HTML
+SASS
+Figma
+Illustrator
+GITLAB
+Linux
+```
 
 <a href="https://app.daily.dev/mdmoinulhossain"><img src="https://api.daily.dev/devcards/6c3a3fa5fabf4c518709914d5c8f3f5d.png?r=ge6" width="400" alt="MD. MOINUL HOSSAIN's Dev Card"/></a>
 
